@@ -1,0 +1,14 @@
+@import "bootstrap";
+@import "font-awesome";
+@import "simplemde.css";
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+  min-height:100vh;
+  justify-content: center;
+}
+
+body {
+  padding-bottom: 2rem;
+}
